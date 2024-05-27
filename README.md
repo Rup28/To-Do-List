@@ -19,6 +19,7 @@ To get started, clone the repository and install the dependencies:
 git clone https://github.com/your-username/todo-list-app.git
 cd todo-list-app
 npm install
+```
 
 ## Testing Guidance
 
