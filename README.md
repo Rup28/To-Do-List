@@ -28,3 +28,6 @@ npm install
 - Complete Task: Click the "Complete" button next to a task. The task should be marked as completed (strikethrough text).
 - Filter Tasks: Use the filter dropdown to display all tasks, only completed tasks, or only incomplete tasks.
 - Sort Tasks: Use the sort dropdown to sort tasks in default order, ascending order, or descending order.
+
+## Deployment
+- this is my deploy link- https://to-do-list-lemon-beta.vercel.app/
